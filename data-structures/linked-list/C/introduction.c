@@ -1,5 +1,5 @@
 /*
-*   author: anandubey
+*   author: Anand Kumar Dubey
 */
 
 #include <stdio.h>
