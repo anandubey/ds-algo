@@ -19,6 +19,26 @@
 #include "linked_list.h"
 
 
+/*************************** Function declarations ***************************/
+
+// Add a node at the beginning of the linked list 
+void push_node(struct Node** node_ref, int data);
+
+// Add a node at the end of the linked list
+void append_node(struct Node** node_ref, int data);
+
+// Add a node after a given node
+void insert_after(struct Node* node, int data);
+
+// Deleting node based on position (with pos being indexed based 1)
+void delete_node(struct Node** node_ref, int pos);
+
+// Get length of the linked list
+int get_length(struct Node* node);
+
+/*********************** Function declarations END ***************************/
+
+
 void push_node(struct Node** head_ref, int new_data)
 {
     // Create new node and add data & next pointer

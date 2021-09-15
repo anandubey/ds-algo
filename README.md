@@ -1,9 +1,20 @@
+
 # Implementing Data Structures and Algorithms using C and C++
 
+  
+## Data Structures
+
 ### Linked List
+
 - [x] Introduction & Traversing the list
 - [x] Node Manipulation - create, update & delete
-- [ ] Reversal of LinkedList
+- [x] Reversal of LinkedList
 - [ ] Cycle Detection
 - [ ] Single and Doubly LinkedList
 - [ ] Fast and slow pointer
+
+## Algorithms
+### Searching Algorithms 
+
+- [ ] Linear Search
+- [ ] Binary Search
