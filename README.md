@@ -16,5 +16,5 @@
 ## Algorithms
 ### Searching Algorithms 
 
-- [ ] Linear Search
+- [x] Linear Search
 - [ ] Binary Search
