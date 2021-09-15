@@ -8,6 +8,7 @@ struct Node
     struct Node* next;
 };
 
+
 /************************** FUNCTION DECLARATIONS ****************************/
 
 /* Print the list from given node to the last node */
